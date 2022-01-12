@@ -1,0 +1,1 @@
+Crabs can go on any position, not just positions that crabs are already on.

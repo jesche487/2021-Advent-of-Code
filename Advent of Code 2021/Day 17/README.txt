@@ -1,0 +1,1 @@
+Part 1 is just done by math, y can be the lowest y bound, and calculate ((y-1)+1) * (y-1) /2
